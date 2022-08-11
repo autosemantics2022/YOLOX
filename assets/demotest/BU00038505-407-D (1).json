@@ -1,0 +1,314 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "window",
+      "points": [
+        [
+          978.3333333333335,
+          1297.0
+        ],
+        [
+          1491.6666666666667,
+          1697.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "window",
+      "points": [
+        [
+          1445.0,
+          1290.3333333333335
+        ],
+        [
+          2055.0,
+          1697.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "window",
+      "points": [
+        [
+          2011.666666666667,
+          1270.3333333333335
+        ],
+        [
+          2698.3333333333335,
+          1720.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "window",
+      "points": [
+        [
+          2035.0,
+          1077.0
+        ],
+        [
+          2701.666666666667,
+          1280.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "window",
+      "points": [
+        [
+          1458.3333333333335,
+          1103.6666666666667
+        ],
+        [
+          2048.3333333333335,
+          1287.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "window",
+      "points": [
+        [
+          975.0,
+          1130.3333333333335
+        ],
+        [
+          1491.6666666666667,
+          1300.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          375.0,
+          1930.3333333333335
+        ],
+        [
+          815.0,
+          2327.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          811.6666666666667,
+          1927.0
+        ],
+        [
+          1271.6666666666667,
+          2377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          1235.0,
+          1967.0
+        ],
+        [
+          1658.3333333333335,
+          2443.666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          1705.0,
+          2013.6666666666667
+        ],
+        [
+          2145.0,
+          2490.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          2411.666666666667,
+          2057.0
+        ],
+        [
+          2845.0,
+          2590.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          2005.0,
+          2193.666666666667
+        ],
+        [
+          2631.666666666667,
+          2977.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          1448.3333333333335,
+          2517.0
+        ],
+        [
+          2508.3333333333335,
+          3000.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          438.33333333333337,
+          2437.0
+        ],
+        [
+          1423,
+          3023
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          528.3333333333334,
+          3017.0
+        ],
+        [
+          0,
+          2316
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          5.0,
+          2020.3333333333335
+        ],
+        [
+          338.33333333333337,
+          2570.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          231.66666666666669,
+          2067.0
+        ],
+        [
+          795.0,
+          2610.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          795.0,
+          2117.0
+        ],
+        [
+          1311.6666666666667,
+          2713.666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "desk&chair",
+      "points": [
+        [
+          1318.3333333333335,
+          2147.0
+        ],
+        [
+          1918.3333333333335,
+          2863.666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "BU00038505-407-D (1).jpg",
+  "imageData": "adfasdfasdfasfdasfaf",
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}
